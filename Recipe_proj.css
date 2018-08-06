@@ -1,0 +1,18 @@
+html,body{
+    font-size:20px;
+    font-family:courier;
+    background-color:lightgrey;
+  }
+  nav{
+    color:green;
+  }
+  h1{
+    background-color:lightgreen;
+  }
+  h2{
+    background-color:lightblue;
+  }
+  h3{
+    background-color:green;
+  }
+  
